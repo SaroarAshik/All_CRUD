@@ -1,0 +1,23 @@
+Query_Builder_CRUD=>
+Php=8.2.12
+Laravel=10.38.1
+Composer=2.6.6
+
+
+Eloquent_ORM_CRUD
+Php=8.2.12
+Laravel=10.37.3
+Composer=2.6.6
+
+
+Ajax_Axios_CRUD=>
+Php=7.4.22
+Laravel=8.83.27
+Composer=2.1.1
+*(if we run php update version,face some problem beacuse of route)
+
+
+Ajax_jQuery_CRUD=>
+Php=8.2.12
+Laravel=10.37.3
+Composer=2.6.6
